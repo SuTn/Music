@@ -1,8 +1,8 @@
 # Music
-## 这是一个基于springBoot2。4.5 + Vue2.9.6 的音乐网站项目
+## 这是一个基于springBoot2.4.5 + Vue2.9.6 的音乐网站项目
 
 视频演示
-![](./show/music网站展示.mp4)
+![展示](show/music网站展示.mp4)
 
 ### 1.项目介绍
 #### 1.1 开发环境
@@ -124,4 +124,9 @@ Mysql MyBatis
 ├── .babelrc // bable 编译配置
 └── .gitignore // 提交忽略的文件配置
 ```
+
+#### 参考：
+b战王汗远的视频教程
+https://www.bilibili.com/video/BV1Ck4y127cg?p=143
+
 
