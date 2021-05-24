@@ -3,7 +3,7 @@
 
 视频演示
 
-![展示](show/music网站展示.gif)
+![music网站展示](https://raw.githubusercontent.com/SuTn/PicBed-PicX/master/pic/music网站展示.5fyrjd58lbg0.gif)
 
 ### 1.项目介绍
 #### 1.1 开发环境
